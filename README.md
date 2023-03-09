@@ -1,2 +1,2 @@
-# machibe_learning_project
+# machine_learning_project
 Machine Learning - Project
